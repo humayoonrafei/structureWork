@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
-
+//;kdfjhg;osidfjg;sdfj;gildfsj;glisjdf;lgidfsj
 void stringCopy(char *A, char *B);
 bool stringCompare(char *A, char *B);
 void stringConcatenation (char *A, char *B);

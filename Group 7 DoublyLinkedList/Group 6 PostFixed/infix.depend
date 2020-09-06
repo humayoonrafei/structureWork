@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581902664 source:c:\users\roman ahmadi\desktop\infix\main.cpp
+	<iostream>
+	<fstream>
+

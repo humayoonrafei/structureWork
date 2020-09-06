@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582996356 source:c:\users\roman ahmadi\desktop\circularlist\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

@@ -1,0 +1,7 @@
+In order: 1 2 6 
+Pre order: 1 2 6 
+Post order: 6 2 1 
+Levels: 
+1
+2
+6

@@ -1,0 +1,9 @@
+1
+2
+3
+delete 3
+5
+delete 5
+6
+9
+delete 9
